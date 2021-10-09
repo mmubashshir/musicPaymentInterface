@@ -128,7 +128,9 @@ footer {
 
 /* Mobile deisgn */
 @media only screen and (max-width: 400px) {
-  
+  html {
+    overflow: scroll
+  }
   .card, .card-img img{
     width: 350px
   }
