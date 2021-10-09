@@ -34,8 +34,8 @@ Added a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/mmubashshir/musicPaymentInterface)
+- Live Site URL: (https://mmubashshir.github.io/musicPaymentInterface/)
 
 ## My process
 
